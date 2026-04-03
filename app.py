@@ -1,2 +1,1 @@
-print("Hello Git")
-print("我推送到 GitHub 啦！")
+print("Hello Git 【GitHub 改的版本】")
