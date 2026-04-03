@@ -1,1 +1,1 @@
-print("Hello Git 【我本地改的版本】")
+print("Hello Git 【合并后的正确版本】")
